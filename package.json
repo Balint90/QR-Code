@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "My own QR code generator",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Bálint Csertán",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "qr-image": "^3.2.0"
+  }
 }
