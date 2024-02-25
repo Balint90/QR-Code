@@ -1,0 +1,12 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "My own QR code generator",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bálint Csertán",
+  "license": "ISC"
+}
